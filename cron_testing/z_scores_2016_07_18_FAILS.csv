@@ -1,0 +1,2 @@
+"date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","unit_id","unit_name","statistic_type","network_parameter_id","network_id","z_score","z_score_fail"
+2016-07-13,2016-07-14,"pt7","Port Talbot Docks","v10",19.875,2045,12,1,118,"ugm-3 (TEOM FDMS)","daily_mean",101,"waun",5.7773957138314,FALSE

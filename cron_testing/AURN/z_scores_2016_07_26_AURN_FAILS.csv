@@ -1,0 +1,2 @@
+"date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","verify_id","validity_id","unit_id","unit_name","statistic_type","network_parameter_id","network_id","z_score","z_score_fail"
+2016-07-25,2016-07-26,"plym","Plymouth Centre","v25",7.025,66230,12,1,0,0,118,"ugm-3 (TEOM FDMS)","daily_mean",1010,"aun",3.62262795562505,FALSE

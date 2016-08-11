@@ -1,0 +1,2 @@
+"date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","unit_id","unit_name","statistic_type","network_parameter_id","network_id","z_score","z_score_fail"
+2016-07-22,2016-07-23,"pemb","Narberth","v10",17.735,2177,12,1,118,"ugm-3 (TEOM FDMS)","daily_mean",105,"warn",5.71803500268562,FALSE
